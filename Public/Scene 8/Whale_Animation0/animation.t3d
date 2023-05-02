@@ -1,0 +1,11 @@
+rows = 2
+columns = 1
+frames = 10
+files = 7
+atlas_0.png
+atlas_1.png
+atlas_2.png
+atlas_3.png
+atlas_4.png
+atlas_5.png
+atlas_6.png
